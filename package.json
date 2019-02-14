@@ -1,0 +1,23 @@
+{
+  "name": "udemy-ts",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000u\u0000d\u0000e\u0000m\u0000y\u0000-\u0000t\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushharder/udemy-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushharder/udemy-ts/issues"
+  },
+  "homepage": "https://github.com/pushharder/udemy-ts#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
